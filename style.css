@@ -1,0 +1,27 @@
+body {
+    background: linear-gradient( rgba(255, 255, 255, 0.45), rgba(255, 255, 255, 0.45)), url(images/oldTV.jpg)no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    ;
+}
+
+#titleRow {
+	background-color: DimGrey;
+	opacity:0.75;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    font-size: 5em;
+}
+
+#buttonsView {
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	padding-bottom:20px;
+}
+
